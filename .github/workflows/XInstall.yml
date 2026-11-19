@@ -34,7 +34,7 @@ permissions: write-all
 jobs:
   build1:
     name: "Buid ${{ inputs.DEVICE }} amoled root"
-    if: github.repository == 'chamchamfy/YT' && github.ref == 'refs/heads/Vip'
+    if: github.repository == 'chamchamfy/YTM' && github.ref == 'refs/heads/Vip'
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
@@ -69,7 +69,7 @@ jobs:
 
   build2:
     name: "Buid ${{ inputs.DEVICE }} amoled no-root"
-    if: github.repository == 'chamchamfy/YT' && github.ref == 'refs/heads/Vip'
+    if: github.repository == 'chamchamfy/YTM' && github.ref == 'refs/heads/Vip'
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
