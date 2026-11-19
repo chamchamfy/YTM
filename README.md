@@ -1,7 +1,7 @@
 
 # YT-RE - YT-EXT - YT-MORPHE
-[![YT-RE](https://github.com/chamchamfy/YT/actions/workflows/Install.yml/badge.svg)](https://github.com/chamchamfy/YT/actions/workflows/Install.yml) [![YT-EXT](https://github.com/chamchamfy/YT/actions/workflows/XInstall.yml/badge.svg)](https://github.com/chamchamfy/YT/actions/workflows/XInstall.yml)
-[![YT-MORPHE](https://github.com/chamchamfy/YT/actions/workflows/MInstall.yml/badge.svg)](https://github.com/chamchamfy/YT/actions/workflows/MInstall.yml)
+[![YT-RE](https://github.com/chamchamfy/YTM/actions/workflows/Install.yml/badge.svg)](https://github.com/chamchamfy/YTM/actions/workflows/Install.yml) [![YT-EXT](https://github.com/chamchamfy/YTM/actions/workflows/XInstall.yml/badge.svg)](https://github.com/chamchamfy/YTM/actions/workflows/XInstall.yml)
+[![YT-MORPHE](https://github.com/chamchamfy/YTM/actions/workflows/MInstall.yml/badge.svg)](https://github.com/chamchamfy/YTM/actions/workflows/MInstall.yml)
 
 Use for both non-root and root:
 
@@ -17,9 +17,9 @@ Use for both non-root and root:
 ---
 
 > [!Tip]
-> Version: [Release](https://github.com/chamchamfy/YT/releases)
+> Version: [Release](https://github.com/chamchamfy/YTM/releases)
 > 
-> **[![Downloads](https://img.shields.io/github/downloads/chamchamfy/YT/total?label=Downloads&logo=github&abbreviated=true&color=blue)](https://github.com/chamchamfy/YT/releases)**
+> **[![Downloads](https://img.shields.io/github/downloads/chamchamfy/YTM/total?label=Downloads&logo=github&abbreviated=true&color=blue)](https://github.com/chamchamfy/YTM/releases)**
 
 > [!note]
 > `YT-rsign.apk | XYT-rsign.apk | MYT-rsign.apk` version is only installed when the device has corepatch installed.
